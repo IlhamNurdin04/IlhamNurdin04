@@ -29,5 +29,5 @@ Mobile application development using Flutter.
 
 ## 📫 Contact
 
-- Email : your@email.com
-- LinkedIn : linkedin.com/in/...
+- Email : codeamz44@gmail.com
+- Instagram : https://www.instagram.com/000frequency
