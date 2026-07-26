@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Ilham Nurdin 👋
 
-<!--
-**IlhamNurdin04/IlhamNurdin04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Informatics Student
+🌱 Currently learning Machine Learning & Web Development
+🚀 Interested in Laravel, Flutter, Python, AI, and Data Science
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Laravel
+- PHP
+- Flutter
+- Python
+- MySQL
+- Java
+- HTML
+- CSS
+- Git
+
+## 📂 Featured Projects
+
+### 🏫 School Information System
+Laravel-based website for SD Muhammadiyah Komplek Kolombo.
+
+### 🤖 Machine Learning
+Learning classification, regression, and data preprocessing.
+
+### 📱 Flutter Apps
+Mobile application development using Flutter.
+
+## 📫 Contact
+
+- Email : your@email.com
+- LinkedIn : linkedin.com/in/...
